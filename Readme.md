@@ -111,3 +111,9 @@ Logic, API design and other decisions were taken my myself.
 ## Hosted
 Render -> for backend
 Vercel -> for frontend
+
+## Links
+Versel: https://the-f-lying-panda-mini-task-2118.vercel.app/
+Render: https://the-flying-panda-mini-task.onrender.com/alerts
+
+
