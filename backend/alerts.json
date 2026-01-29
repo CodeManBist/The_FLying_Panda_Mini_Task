@@ -1,0 +1,34 @@
+[
+  {
+    "id": "d5e885b5-c699-4d58-8b2e-232caae90af8",
+    "country": "USA",
+    "city": "New York",
+    "visaType": "Student",
+    "status": "Booked",
+    "createdAt": "2026-01-29T15:49:34.802Z"
+  },
+  {
+    "id": "99adb641-ffdf-410a-b608-e872df6fd82f",
+    "country": "India",
+    "city": "Bangalore",
+    "visaType": "Student",
+    "status": "Expired",
+    "createdAt": "2026-01-29T16:10:53.265Z"
+  },
+  {
+    "id": "cbb6cf60-3aaa-4b84-9cfc-5d95a2809f96",
+    "country": "India",
+    "city": "Delhi",
+    "visaType": "Business",
+    "status": "Active",
+    "createdAt": "2026-01-29T16:11:07.151Z"
+  },
+  {
+    "id": "e2a16b7a-5d19-4796-8095-b645c194bb51",
+    "country": "USA",
+    "city": "California",
+    "visaType": "Business",
+    "status": "Booked",
+    "createdAt": "2026-01-29T16:14:54.472Z"
+  }
+]
